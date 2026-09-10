@@ -63,7 +63,8 @@ Moi c'est **Yann**, un passionné de **Développement Web** mais aussi de **Phot
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YannLf3&theme=dark" alt="GitHub Streak" height="180" />
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=YannLf3&layout=compact&theme=dark" alt="Langages les plus utilisés" height="180" />
+<!-- Carte 2 : Jours de contribution consécutifs (Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YannLf3&theme=dark" alt="GitHub Streak" height="180" />
 </div>
 
 ---
