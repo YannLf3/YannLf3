@@ -62,7 +62,7 @@ Moi c'est **Yann**, un passionné de **Développement Web** mais aussi de **Phot
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YannLf3&theme=dark" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=YannLf3&show_icons=true&theme=dark" alt="Stats GitHub" height="180" />
 <!-- Carte 2 : Jours de contribution consécutifs (Streak) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YannLf3&theme=dark" alt="GitHub Streak" height="180" />
 </div>
