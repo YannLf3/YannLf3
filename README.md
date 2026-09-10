@@ -1,6 +1,6 @@
-<!-- BANNIÈRE D'ACCUEIL -->
+<!-- BANNIÈRE D'ACCUEIL (Instance miroir Heroku) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vcenter=true&width=500&lines=Bonjour+%21+Moi+c'est+Yann+%F0%9F%90%8B;Développeur+Web+%26+Photographe" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vcenter=true&width=500&lines=Bonjour+%21+Moi+c'est+Yann+%F0%9F%90%8B;Développeur+Web+%26+Photographe" alt="Typing Effect" />
 </div>
 
 <br />
@@ -58,12 +58,12 @@ Moi c'est **Yann**, un passionné de **Développement Web** mais aussi de **Phot
 
 ---
 
-<!-- STATISTIQUES GITHUB DYNAMIQUES -->
+<!-- STATISTIQUES ALTERNATIVES SANS SATURE DE SERVEUR -->
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YannLf3&show_icons=true&theme=dark" alt="Stats GitHub de mon profil" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannLf3&layout=compact&theme=dark" alt="Langages les plus utilisés" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YannLf3&theme=dark" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=YannLf3&layout=compact&theme=dark" alt="Langages les plus utilisés" height="180" />
 </div>
 
 ---
