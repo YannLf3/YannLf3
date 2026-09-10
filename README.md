@@ -10,7 +10,7 @@
 
 Moi c'est **Yann**, un passionné de **Développement Web** mais aussi de **Photographie**. J'adore concevoir des interfaces soignées et mettre en place des architectures back-end solides et performantes.
 
-- 🚀 Je travaille actuellement sur **la réalisation complète de mon site web Portoflio**
+- 🚀 Je travaille actuellement sur **la réalisation complète de mon site web Portfolio**
 - 💬 Pose-moi des questions sur **le Front-end, le Back-end ou les Bases de données**
 
 ---
@@ -23,7 +23,7 @@ Moi c'est **Yann**, un passionné de **Développement Web** mais aussi de **Phot
 
 #### 🛠️ Technologies utilisées pour ce projet :
 ![HTML5](https://shields.io)
-![CSS](https://shields.io)
+![TailwindCSS](https://shields.io)
 ![PHP](https://shields.io)
 ![MySQL](https://shields.io)
 
@@ -32,7 +32,8 @@ Moi c'est **Yann**, un passionné de **Développement Web** mais aussi de **Phot
 - **Dynamisme :** Création d'un espace administrateur sécurisé en PHP/MySQL pour la gestion autonome des contenus par le client.
 - **Déploiement :** Configuration complète de l'hébergement sur **Hostinger**.
 
-🔗 **[Visiter le site en production]** (https://barcelonafeelgoodtours.eu/)
+🔗 **[Visiter le site en production](https://barcelonafeelgoodtours.eu/)**
+
 ---
 
 <!-- BADGES DES TECHNOS -->
