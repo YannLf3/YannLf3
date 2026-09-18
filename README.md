@@ -85,16 +85,10 @@ Hosting: Hostinger
   <!-- CARTE STREAK SANS LIMITES -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YannLf3&theme=tokyonight&border_radius=10" height="175" alt="GitHub Streak Stats" />
   
-  <!-- STATISTIQUES ALTERNATIVES SANS RATE-LIMIT -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YannLf3&show_icons=true&theme=tokyonight&border_radius=10&count_private=true" height="175" alt="GitHub Stats" />
+  
 </div>
 
-<br />
 
-<div align="center">
-  <!-- GRAPHE D'ACTIVITÉ EN LIGNE (100% FIABLE) -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=YannLf3&theme=tokyo-night&area=true&hide_border=true" width="95%" alt="Activity Graph" />
-</div>
 
 ---
 
