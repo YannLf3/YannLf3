@@ -24,6 +24,7 @@
   "passions": ["Web Development", "Photography", "UI/UX Design"],
   "currently_working_on": "Personal Portfolio",
   "ask_me_about": ["Front-End", "Back-End", "Database Architecture"]
+  "my website": https://yannleflohic.fr/
 }
 ```
 
