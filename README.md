@@ -1,106 +1,122 @@
-<!-- HEADER ANIME TERMINAL CYBERPUNK -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=38BDF8&center=true&vcenter=true&width=600&lines=%24_&gt;+Hello+World!+Moi+c'est+Yann;%24_&gt;+D%C3%A9veloppeur+Web+Full-Stack;%24_&gt;+Cr%C3%A9ateur+d'interfaces+%26+Architecte+PHP;%24_&gt;+Passionn%C3%A9+de+Photographie+%F0%9F%93%B7" alt="Typing Effect" />
-  
-  <br />
-
-  <!-- BADGE STATUS DYNAMIQUE -->
-  <a href="https://github.com/YannLf3">
-    <img src="https://img.shields.io/badge/STATUS-BUILDING_MODE-00FF66?style=for-the-badge&logo=github&logoColor=black" alt="Status Badge"/>
-  </a>
+  <img src="assets/hero.svg" alt="Yann Le Flohic, développeur web full-stack freelance" width="100%">
 </div>
 
-<br />
+<p align="center">
+  <a href="mailto:yann.lfhc@icloud.com"><img src="assets/btn-contact.svg" height="46" alt="Me contacter par email"></a>
+  <a href="https://www.malt.fr/profile/yannleflohic1"><img src="assets/btn-malt.svg" height="46" alt="Mon profil Malt"></a>
+  <a href="https://www.linkedin.com/in/yannlf3/"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/yannleflohic.dev/"><img src="assets/btn-instagram.svg" height="46" alt="Instagram"></a>
+  <a href="https://yannleflohic.fr/"><img src="assets/btn-portfolio.svg" height="46" alt="Mon portfolio"></a>
+</p>
 
-<!-- PRESENTATION STRUCTUREE CODE -->
-## 🧑‍💻 `whoami`
+Je conçois et développe des sites vitrines, des web apps et des refontes sur mesure, du front à l'hébergement. Basé à Châteauroux et Limoges, je travaille aussi à distance partout en France.
 
-> *"Code properly, craft visually, deploy flawlessly."*
+<details>
+<summary><img src="assets/lang-en.svg" height="46" alt="Read in English"></summary>
 
-```json
-{
-  "name": "Yann",
-  "role": "Full-Stack Web Developer",
-  "passions": ["Web Development", "Photography", "UI/UX Design"],
-  "currently_working_on": "Personal Portfolio",
-  "ask_me_about": ["Front-End", "Back-End", "Database Architecture"]
-  "my website": https://yannleflohic.fr/
-}
-```
+<br>
 
----
+I design and build custom showcase sites, web apps and redesigns, from front end to hosting. Based in Châteauroux and Limoges, France, and available for remote work anywhere in the country.
 
-<!-- JEU DU SERPENT SUR LES CONTRIBUTIONS -->
-## 🎮 Contribution Snake
+#### Services
+
+- Showcase sites with an admin panel, so you can manage your content yourself
+- Custom web apps in PHP
+- Redesign of existing sites
+
+#### Projects
+
+1. Barcelona Feel Good Tours, a client project: a multilingual PHP MVC showcase site with a CRUD admin panel, built with HTML5, Tailwind, PHP and MySQL and hosted on Hostinger. [Website](https://barcelonafeelgoodtours.eu/) · [Source](https://github.com/YannLf3/Perso_Barcelona-guide)
+2. My portfolio: PHP 8 MVC, MySQL through PDO, an admin back-office, light and dark themes and two modes, developer and photographer. [Website](https://yannleflohic.fr/) · [Source](https://github.com/YannLf3/Portoflio)
+3. A fictional WordPress landing page built for a course project. [Source](https://github.com/YannLf3/SAE202_Wordpress)
+
+#### Contact
+
+Tell me about your project in a few lines and I'll get back to you at [yann.lfhc@icloud.com](mailto:yann.lfhc@icloud.com), or find me on [Malt](https://www.malt.fr/profile/yannleflohic1) and [LinkedIn](https://www.linkedin.com/in/yannlf3/).
+
+</details>
+
+<br>
+
+<img src="assets/cmd-header.svg" width="100%" alt="Aller à">
+<br>
+<a href="#projets"><img src="assets/cmd-projets.svg" width="100%" alt="open projets : voir mes réalisations"></a>
+<br>
+<a href="#services"><img src="assets/cmd-services.svg" width="100%" alt="open services : ce que je peux faire pour vous"></a>
+<br>
+<a href="#contributions"><img src="assets/cmd-contributions.svg" width="100%" alt="open contributions : mon activité et mes stats GitHub"></a>
+<br>
+<a href="#contact"><img src="assets/cmd-contact.svg" width="100%" alt="open contact : parler de votre projet"></a>
+<br>
+<a href="https://yannleflohic.fr/"><img src="assets/cmd-portfolio.svg" width="100%" alt="open portfolio : yannleflohic.fr"></a>
+
+## Services
+
+- Sites vitrines avec back-office pour gérer son contenu en autonomie
+- Web apps sur mesure en PHP
+- Refonte de sites existants
+
+## Projets
+
+<details>
+<summary><img src="assets/project-01.svg" width="100%" alt="Projet 01, Barcelona Feel Good Tours : voir le détail"></summary>
+
+<br>
+
+- Site vitrine multilingue en PHP MVC, avec une administration CRUD pour gérer le contenu sans toucher au code.
+- Né d'un projet de première année de BUT MMI, aujourd'hui en ligne sur le domaine du client.
+- HTML5, TailwindCSS, PHP et MySQL, hébergé chez Hostinger.
+- [Voir le site](https://barcelonafeelgoodtours.eu/) · [Code source](https://github.com/YannLf3/Perso_Barcelona-guide)
+
+</details>
+
+<details>
+<summary><img src="assets/project-02.svg" width="100%" alt="Projet 02, yannleflohic.fr : voir le détail"></summary>
+
+<br>
+
+- PHP 8 en architecture MVC, MySQL via PDO, requêtes préparées et sessions sécurisées pour l'administration.
+- Interface en Tailwind CSS et JavaScript, avec thème clair et sombre, et deux modes (développeur et photographe) qui changent la couleur d'accent et le contenu de la page.
+- Hébergé chez Hostinger.
+- [Voir le site](https://yannleflohic.fr/) · [Code source](https://github.com/YannLf3/Portoflio)
+
+</details>
+
+<details>
+<summary><img src="assets/project-03.svg" width="100%" alt="Projet 03, landing page WordPress : voir le détail"></summary>
+
+<br>
+
+- Landing page fictive sous WordPress, réalisée en SAÉ 2.02 du BUT MMI.
+- [Code source](https://github.com/YannLf3/SAE202_Wordpress)
+
+</details>
+
+## Contributions
+
+<img src="https://raw.githubusercontent.com/YannLf3/YannLf3/output/contributions.svg" width="100%" alt="Calendrier de mes contributions GitHub sur 12 mois">
+
+<img src="https://raw.githubusercontent.com/YannLf3/YannLf3/output/stats.svg" width="100%" alt="Mes statistiques GitHub : contributions, série, dépôts et langages">
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YannLf3/YannLf3/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YannLf3/YannLf3/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/YannLf3/YannLf3/output/github-contribution-grid-snake.svg">
+    <img alt="Un serpent qui mange mes contributions" src="https://raw.githubusercontent.com/YannLf3/YannLf3/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
----
+## Stack
 
-<!-- PROJET PHARE -->
-## 🌟 Featured Project
+<img src="assets/stack.svg" width="100%" alt="Stack : HTML, CSS, JavaScript, Tailwind, Sass, PHP, SQL, Python, WordPress, Figma, Hostinger">
 
-### 🚀 Site vitrine & Admin Panel — Guide Touristique Espagnole
-```yaml
-Client: Barcelona Feel Good Tours
-Stack: [HTML5, TailwindCSS, PHP, MySQL]
-Impact: +100% SEO, Back-office autonome, Temps de chargement ultra rapide
-Hosting: Hostinger
-```
-🔗 **[Live Demo](https://barcelonafeelgoodtours.eu/)**
+## Contact
 
----
+Un projet en tête ? Décrivez-moi votre besoin en quelques lignes, je reviens vers vous.
 
-<!-- TECH STACK AVEC BADGES NEON -->
-## 🛠️ Tech Stack & Cyber Toolbox
-
-### 🌐 Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Back-End & Data
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🖥️ DevOps & Tools
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-<!-- STATISTIQUES GITHUB DYNAMIQUES ET STABLES -->
-## 📊 Telemetry & GitHub Analytics
-
-<div align="center">
-  <!-- CARTE STREAK SANS LIMITES -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YannLf3&theme=tokyonight&border_radius=10" height="175" alt="GitHub Streak Stats" />
-  
-  
-</div>
-
-
-
----
-
-<!-- LIENS DE CONTACT -->
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://fr.linkedin.com/in/yannlf3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:yann.lfhc@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+<p>
+  <a href="mailto:yann.lfhc@icloud.com"><img src="assets/btn-contact.svg" height="46" alt="Me contacter par email"></a>
+  <a href="https://www.malt.fr/profile/yannleflohic1"><img src="assets/btn-malt.svg" height="46" alt="Mon profil Malt"></a>
+  <a href="https://www.linkedin.com/in/yannlf3/"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn"></a>
+</p>
